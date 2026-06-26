@@ -1,0 +1,33 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.tmp$$
+*.bak
+*.asv
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# MATLAB/large generated outputs
+*.fig
+*.mex*
+slprj/
+
+# Heavy SWAT/GIS/model-output files intentionally excluded
+*.mdb
+*.exe
+*.dll
+*.adf
+*.img
+*.tif
+*.ovr
+*.zip
+*.rar
+output.hru
+output*.hru
+SWATOutput.mdb
+RasterStore.idb/
+Watershed/Grid/
