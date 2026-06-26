@@ -1,0 +1,12 @@
+Goal_type= Nash_Sutcliff    No_sims= 100     Best_sim_no= 89    Best_goal = 6.924163e-001
+
+Variable           p-factor  r-factor  R2    NS     bR2      MSE       SSQR       PBIAS  KGE  RSR   MNS   VOL_FR  ---  Mean_sim(Mean_obs)   StdDev_sim(StdDev_obs)
+FLOW_OUT_1         0.73      1.00      0.71  0.69   0.5586   1.0e+006  9.3e+004   10.8  0.80  0.55  0.51  1.12         1904.46(2135.64)        1679.20(1816.84)
+
+
+---- Results for behavioral parameters ---
+Behavioral threshold= 0.500000
+Number of behavioral simulations = 64
+
+Variable           p-factor  r-factor  R2    NS     bR2      MSE       SSQR       PBIAS  KGE  RSR   MNS   VOL_FR  ---  Mean_sim(Mean_obs)   StdDev_sim(StdDev_obs)
+FLOW_OUT_1         0.67      0.74      0.71  0.69   0.5586   1.0e+006  9.3e+004   10.8  0.80  0.55  0.00  1.12         1904.46(2135.64)        1679.20(1816.84)
