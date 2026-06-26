@@ -1,0 +1,13 @@
+R packages used by the plotting scripts:
+
+ggplot2
+patchwork
+grid
+ggtext
+ggsignif
+stringr
+readxl
+dplyr
+tidyverse
+gghalves
+reshape2

@@ -1,0 +1,10 @@
+Recommended MATLAB environment:
+
+- MATLAB R2021a or newer
+- Deep Learning Toolbox
+- Statistics and Machine Learning Toolbox
+- Signal Processing Toolbox
+- Parallel Computing Toolbox (optional, for GPU/parallel training)
+- Spreadsheet import support for .xlsx/.xls files
+
+The TVFEMD helper `splinefit.m` is included in the repository.
